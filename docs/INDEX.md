@@ -15,6 +15,18 @@ This index points future recovery passes to the live control surfaces without fl
 | App Script | https://script.google.com/home/projects/1OLx-jNyDE_aY-CwdkE_gxPhxn8xExfvLuBcD0Pd-Uph6uaWpBGLt_dvP | Automation surface; inspect source and deployment status before relying on it. |
 | Colab | https://colab.research.google.com/drive/1tK3Sv8rwaGeHFCH7FYoLcik6cDesSCNK?usp=sharing | Notebook/compute surface; inspect runtime, cells, and outputs before treating as evidence. |
 
+## Git / Worktree Target State
+
+The intended repo workflow is a real local clone plus Git worktrees, not connector-only operation.
+
+| Area | Target |
+| --- | --- |
+| Local clone | A verified local clone of `https://github.com/simplyabbeyd-pixel/EmberStates.git`. |
+| Worktrees | Separate worktrees for docs/recovery, binary workbook repair, Drive inventory, and automation changes when those efforts are active. |
+| Fallback | Use GitHub/Drive connectors only when local shell, Git, or worktree access is unavailable. |
+| Safety | Verify remote URL, branch, status, and uncommitted changes before editing. Do not overwrite Drive-synced working files. |
+| Reconciliation | After connector commits, sync local clone/worktrees before continuing local edits. |
+
 ## Foxglint Identity
 
 | Field | Value |
@@ -63,9 +75,10 @@ Use the repo and workbooks to drive source inventory. Do not use them as standal
 
 ## Next Pass
 
-1. Inventory the Drive `01_PROJECT_HUB` folder.
-2. Open the v2 recovery workbook and compare it to the GitHub workbook artifact.
-3. Resolve Chrome bookmark IDs into stable URLs.
-4. Source-read Civic Personhood Forge and unresolved Lantern material.
-5. Update the Agent Index workbook and repo notes with exact evidence, not inferred summaries.
-6. Keep the Foxglint contribution log current for every update, change, integration, merge, and copied item.
+1. Establish or repair local clone/worktree layout for `simplyabbeyd-pixel/EmberStates`.
+2. Inventory the Drive `01_PROJECT_HUB` folder.
+3. Open the v2 recovery workbook and compare it to the GitHub workbook artifact.
+4. Resolve Chrome bookmark IDs into stable URLs.
+5. Source-read Civic Personhood Forge and unresolved Lantern material.
+6. Update the Agent Index workbook and repo notes with exact evidence, not inferred summaries.
+7. Keep the Foxglint contribution log current for every update, change, integration, merge, and copied item.
