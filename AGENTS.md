@@ -22,6 +22,15 @@ EmberStates is a Paramecia/Triquel recovery and organization project. Treat this
 - App Script: https://script.google.com/home/projects/1OLx-jNyDE_aY-CwdkE_gxPhxn8xExfvLuBcD0Pd-Uph6uaWpBGLt_dvP
 - Colab: https://colab.research.google.com/drive/1tK3Sv8rwaGeHFCH7FYoLcik6cDesSCNK?usp=sharing
 
+## Git / Worktree Operating Mode
+
+- Desired state: maintain a real local clone of `simplyabbeyd-pixel/EmberStates` and use Git worktrees for isolated recovery, docs, binary-artifact, and automation passes.
+- Missing local Git/worktrees is an infrastructure gap to repair, not the intended operating model.
+- Use GitHub and Drive connectors as fallback paths when local shell, Git, or worktree access is unavailable.
+- Prefer local Git for binary artifacts, larger repo changes, branch review, diff inspection, and multi-file updates.
+- Before creating or reusing a worktree, verify the local clone path, active branch, remote URL, and uncommitted changes. Do not overwrite Drive-synced working files.
+- Keep connector-written commits and local worktree state reconciled before further edits.
+
 ## Operating Rules
 
 - Do not promote compiled indexes, dashboards, filenames, bookmark IDs, or recovered packet summaries into canon by themselves.
@@ -41,11 +50,13 @@ EmberStates is a Paramecia/Triquel recovery and organization project. Treat this
 3. Record authority tier and canon status beside each claim.
 4. Keep candidate, metadata-only, needs-recovery, quarantined, and approved rows distinct.
 5. Ask for or record Architect approval before canon promotion.
-6. Read back any registry, sheet, Drive, or repo update after writing.
-7. Add or update a running-log entry for each contribution.
+6. Prefer local Git/worktrees for repo changes when available; otherwise use the GitHub connector and record the fallback.
+7. Read back any registry, sheet, Drive, repo, or local worktree update after writing.
+8. Add or update a running-log entry for each contribution.
 
 ## Current Priority Queue
 
+- Establish or repair a local clone and worktree layout for `simplyabbeyd-pixel/EmberStates`.
 - Replace the GitHub workbook artifact with the clean Drive/local v2 workbook when binary update support is available.
 - Inventory Lantern Loadout and Lanternworks from Drive.
 - Compare duplicate `README_IMPORT_ORDER.md` copies before merging.
