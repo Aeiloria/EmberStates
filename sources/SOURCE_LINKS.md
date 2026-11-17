@@ -75,7 +75,7 @@ Central link registry for recovery, provenance, external references, and reposit
 5. Historical ChatGPT sandbox ZIP paths are provenance records, not recoverable binaries by filename alone.
 6. Do not fabricate individual ChatGPT conversation URLs when only the project-level doorway is available.
 
-_Last updated: 2026-08-05._
+_Last updated: 2026-11-17._
 
 ## Emberglass operational sources
 
