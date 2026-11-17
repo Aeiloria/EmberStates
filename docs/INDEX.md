@@ -6,7 +6,7 @@ This index points future recovery passes to the live control surfaces without fl
 
 | Surface | Link | Use |
 | --- | --- | --- |
-| GitHub repo | https://github.com/simplyabbeyd-pixel/EmberStates | Recovery/control map and durable handoff notes. |
+| GitHub repo | https://github.com/Aeiloria/EmberStates | Recovery/control map and durable handoff notes. |
 | Drive Emberstates hub | https://drive.google.com/drive/folders/1Ftz1SiQxImAbcLj2a7XlKNzhSUtPuoxZ | Main source workspace for folders, workbooks, exports, and current review materials. |
 | Foxglint Living Repository | https://drive.google.com/drive/folders/1FxM_o3WJ8Xsqc4GNlkzF-LaPfiZLFimk | Living repository for created files, links, usage notes, edits, integrations, merged/copy status, and running logs. |
 | ChatGPT Emberstates project | https://chatgpt.com/g/g-p-6a6e90a2e4448191bd49c6bd971b9887-emberstates/project | Navigation/work anchor for continued project inspection. Not source proof by itself. |
@@ -21,7 +21,7 @@ The intended repo workflow is a real local clone plus Git worktrees, not connect
 
 | Area | Target |
 | --- | --- |
-| Local clone | A verified local clone of `https://github.com/simplyabbeyd-pixel/EmberStates.git`. |
+| Local clone | A verified local clone of `https://github.com/Aeiloria/EmberStates.git`. |
 | Worktrees | Separate worktrees for docs/recovery, binary workbook repair, Drive inventory, and automation changes when those efforts are active. |
 | Fallback | Use GitHub/Drive connectors only when local shell, Git, or worktree access is unavailable. |
 | Safety | Verify remote URL, branch, status, and uncommitted changes before editing. Do not overwrite Drive-synced working files. |
@@ -68,6 +68,8 @@ The intended repo workflow is a real local clone plus Git worktrees, not connect
 | `recovery/README.md` | Recovery packet contents, evidence base, known gaps, and provenance policy. |
 | `recovery/EMBERSTATES_REVIEW__2026-08-02.md` | Read-only review ruling for the compiled recovery packet. |
 | `recovery/Emberstates_Master_Recovery_Index.xlsx` | Legacy workbook artifact; replace with clean v2 when supported. |
+| `sources/AGENT_SOURCE_INDEX.md` | Consolidated agent infrastructure and source-provenance map. |
+| `sources/agent-source-index.csv` | Spreadsheet-friendly agent source registry. |
 
 ## Canon Handling
 
