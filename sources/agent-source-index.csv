@@ -1,0 +1,20 @@
+category,label,url,role,status
+repository,Canonical EmberStates repository,https://github.com/Aeiloria/EmberStates,Versioned recovery and agent documentation,live
+repository,Legacy repository doorway,https://github.com/simplyabbeyd-pixel/EmberStates,Redirect/provenance alias,redirect
+repository,Agent instructions,https://github.com/Aeiloria/EmberStates/blob/main/AGENTS.md,Agent operating rules and source anchors,live
+repository,Documentation index,https://github.com/Aeiloria/EmberStates/blob/main/docs/INDEX.md,Cross-surface source map,live
+repository,Central source registry,https://github.com/Aeiloria/EmberStates/blob/main/sources/SOURCE_LINKS.md,Human-readable source registry,live
+repository,Machine-readable source registry,https://github.com/Aeiloria/EmberStates/blob/main/sources/source-links.json,Structured source registry,live
+repository,Recent project chat registry,https://github.com/Aeiloria/EmberStates/blob/main/sources/RECENT_PROJECT_CHATS_2026-08-05.md,Chat image and tag provenance,live
+chatgpt,EmberStates ChatGPT project,https://chatgpt.com/g/g-p-6a6e90a2e4448191bd49c6bd971b9887-emberstates/project,Project chats images tags and recovery material,access-dependent
+drive,Main EmberStates Drive hub,https://drive.google.com/drive/folders/1Ftz1SiQxImAbcLj2a7XlKNzhSUtPuoxZ,Main recovery and organization hub,live
+drive,Foxglint Living Repository,https://drive.google.com/drive/folders/1FxM_o3WJ8Xsqc4GNlkzF-LaPfiZLFimk,Created files links logs and merged copied state,live
+drive,Drive for Agents,https://drive.google.com/drive/folders/1xdg5dGgmxnElJznWkFGE4jUNWISF7t2r,Agent-oriented storage and handoff,live
+docs,Foxglint Living Repository Index,https://docs.google.com/document/d/1f5l12DfxnldnVlNjf0ammc8XDROSbhjjP4k4HeE85Rg/edit,Repository map and provenance rules,live
+sheets,Foxglint Contribution Log,https://docs.google.com/spreadsheets/d/1-qabvZjES8aiQDxk-6ULJAB-RiYjlg6AWVvCukEwx48/edit,Running contribution ledger,live
+sheets,Agent Index workbook,https://docs.google.com/spreadsheets/d/1evo-PlKZDEMau-WXJ01SKn7M6vuhLF-P01bEopfLlaE/edit,Agent role queue source map and dashboard,live
+automation,Apps Script project,https://script.google.com/home/projects/1OLx-jNyDE_aY-CwdkE_gxPhxn8xExfvLuBcD0Pd-Uph6uaWpBGLt_dvP,Automation surface,access-dependent
+compute,Colab notebook,https://colab.research.google.com/drive/1tK3Sv8rwaGeHFCH7FYoLcik6cDesSCNK?usp=sharing,Notebook and compute surface,access-dependent
+recovery,Recovery Index v2,https://drive.google.com/file/d/14nLpbkoMO5JVbcLsY6eUqBcKxbX1mxh6,Current richer recovery workbook,current
+recovery,Preserved Recovery Index,https://drive.google.com/file/d/1vI1y94ExdEJE-7c4EfDbNa0B07KhcOfn,Preserved master recovery index,preserved
+recovery,Repository workbook,https://github.com/Aeiloria/EmberStates/blob/main/recovery/Emberstates_Master_Recovery_Index.xlsx,Versioned repo copy verify binary integrity,verify
