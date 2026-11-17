@@ -38,6 +38,11 @@ https://docs.google.com/spreadsheets/d/14U2GvUmZxYaKmE-R_gOyozqxWX2ZpPsX8UMUjiXS
 **Running contribution log**  
 https://docs.google.com/document/d/1uMfecWc3LQaILUb8jC8yH0ipV1lPmAh9iWhjgD1Hp_M/edit
 
+**Repository dictionary 🏷️📖**  
+https://docs.google.com/document/d/1zyqBmSPmnUknRQIwWZCiKKZFzO55UfhdPfE1s4NSXu0/edit
+
+GitHub mirror: `docs/wiki/Repository-Dictionary.md`
+
 ## Connected working systems 🔗
 
 ### Google Apps Script ⚙️
@@ -92,11 +97,15 @@ All prior project work may be classified as **First Studio work** for structured
 
 `DRAFT → INVENTORIED → CITED → REVIEWED → THESIS READY → DEAN APPROVED → INTEGRATED`
 
+## Dictionary rule 📖
+
+Operational terminology should be added to the repository dictionary only after its meaning is supported by a source, log, index, workflow, or approved project record. The dictionary is not a license to invent missing canon.
+
 ## Tags 🏷️
 
-`architect-director` · `repository` · `provenance` · `integration` · `academy` · `source-tracking` · `agent-systems`
+`architect-director` · `repository` · `provenance` · `integration` · `academy` · `source-tracking` · `agent-systems` · `dictionary`
 
-`#EmberStates #VeyraQuill #LivingRepository #SourceProvenance #AgentSystems #AppsScript #Colab #Foxglint #Integrated`
+`#EmberStates #VeyraQuill #LivingRepository #SourceProvenance #AgentSystems #AppsScript #Colab #Foxglint #Dictionary #Integrated`
 
 ## Signature
 
