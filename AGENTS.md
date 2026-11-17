@@ -63,3 +63,13 @@ EmberStates is a Paramecia/Triquel recovery and organization project. Treat this
 - Export/source Civic Personhood Forge before any canon promotion.
 - Resolve local Chrome bookmark IDs into stable destination URLs.
 - Keep Foxglint docs, contribution log, and GitHub repo mirror aligned.
+
+## Emberglass Safety Layer
+
+Use [`docs/agents/R1_EMBERGLASS_AGENT_ACTIONS.md`](docs/agents/R1_EMBERGLASS_AGENT_ACTIONS.md) as the action-safety layer for project handling.
+
+- Default to read-only capture, provenance, classification, and handoff.
+- Treat uploads, moves, renames, structure changes, and similar writes as confirmation-gated.
+- Never execute Red actions without exact Zarea approval for the exact target and action.
+- Emberglass operational status does not confer canon authority.
+- Preserve source links through [`sources/EMBERGLASS_SOURCE_MAP_2026-11-17.md`](sources/EMBERGLASS_SOURCE_MAP_2026-11-17.md).
