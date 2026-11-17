@@ -82,3 +82,12 @@ Use the repo and workbooks to drive source inventory. Do not use them as standal
 5. Source-read Civic Personhood Forge and unresolved Lantern material.
 6. Update the Agent Index workbook and repo notes with exact evidence, not inferred summaries.
 7. Keep the Foxglint contribution log current for every update, change, integration, merge, and copied item.
+
+## Emberglass Agent Protocol
+
+| File | Purpose |
+| --- | --- |
+| [`docs/agents/R1_EMBERGLASS_AGENT_ACTIONS.md`](agents/R1_EMBERGLASS_AGENT_ACTIONS.md) | Read-only-first Emberglass action catalog, safety levels, router, archive statuses, and Red-action boundary. |
+| [`sources/EMBERGLASS_SOURCE_MAP_2026-11-17.md`](../sources/EMBERGLASS_SOURCE_MAP_2026-11-17.md) | Provenance map for the Emberglass integration and source anchors. |
+
+Emberglass is operational tooling and does not promote material into canon.
