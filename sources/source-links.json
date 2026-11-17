@@ -1,15 +1,16 @@
 {
   "schema_version": "1.1",
-  "updated": "2026-08-05",
+  "updated": "2026-11-17",
   "project": "EmberStates",
   "authority_note": "Source links establish provenance and navigation only. They do not establish canon authority.",
   "sources": [
     {
       "id": "github-repository",
       "label": "EmberStates GitHub repository",
-      "url": "https://github.com/simplyabbeyd-pixel/EmberStates",
+      "url": "https://github.com/Aeiloria/EmberStates",
       "classification": "primary-project-surface",
-      "status": "live"
+      "status": "live",
+      "note": "Canonical current repository location; original requested URL is preserved separately for provenance."
     },
     {
       "id": "chatgpt-project",
@@ -115,6 +116,27 @@
       "url": "https://sketchfab.com/account24332/collections/pokemon-41added501ab4230a2ec613f4f72c0d8",
       "classification": "external-research-reference",
       "status": "external-not-canon"
+    },
+    {
+      "id": "github-repository-original-url",
+      "label": "Original/requested EmberStates GitHub URL",
+      "url": "https://github.com/simplyabbeyd-pixel/EmberStates",
+      "classification": "historical-project-surface",
+      "status": "redirect-provenance"
+    },
+    {
+      "id": "emberglass-agent-actions",
+      "label": "R1: EMBERGLASS Agent Actions",
+      "url": "https://github.com/Aeiloria/EmberStates/blob/integrate/r1-emberglass-actions-2026-11-17/docs/agents/R1_EMBERGLASS_AGENT_ACTIONS.md",
+      "classification": "operational-agent-protocol",
+      "status": "versioned-non-canon"
+    },
+    {
+      "id": "emberglass-source-map-2026-11-17",
+      "label": "Emberglass Source Map · 2026-11-17",
+      "url": "https://github.com/Aeiloria/EmberStates/blob/integrate/r1-emberglass-actions-2026-11-17/sources/EMBERGLASS_SOURCE_MAP_2026-11-17.md",
+      "classification": "provenance-map",
+      "status": "versioned"
     }
   ]
 }
