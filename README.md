@@ -52,3 +52,9 @@ Use it to drive source inventory and verification. Promote only rows with readab
 ## Maintenance note
 
 The GitHub workbook artifact should be replaced with the Drive/local v2 workbook when binary file update support is available. A prior read-only check found the repo workbook download had ZIP central-directory errors, while the Drive/local v2 workbook opened cleanly.
+
+## Emberglass agent safety layer
+
+- [R1: EMBERGLASS Agent Actions](docs/agents/R1_EMBERGLASS_AGENT_ACTIONS.md) defines the project’s read-only-first capture, provenance, handoff, triage, creative staging, and shutdown routines.
+- [Emberglass source map](sources/EMBERGLASS_SOURCE_MAP_2026-11-17.md) records the source anchors used for the integration.
+- Emberglass is an **operational protocol, not canon material**. Red actions still require exact Zarea approval.
