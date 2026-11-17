@@ -1,5 +1,21 @@
 # EmberStates Integration Log
 
+## 2026-11-17 · Agent source consolidation
+
+### Added
+
+- `sources/AGENT_SOURCE_INDEX.md` as the consolidated human-readable agent source map.
+- `sources/agent-source-index.csv` as a spreadsheet-friendly companion.
+- Canonical repository links using `https://github.com/Aeiloria/EmberStates`.
+- Legacy `simplyabbeyd-pixel/EmberStates` preserved as a redirect/provenance alias.
+- Direct source anchors for the Agent Index workbook, Drive for Agents, Foxglint repository/index/log, Apps Script, Colab, recovery workbooks, and ChatGPT project.
+
+### Integration ruling
+
+- Agent infrastructure is now indexed separately from canon evidence.
+- Per-chat ChatGPT URLs remain intentionally absent unless actually available.
+- New source links must be added to both `SOURCE_LINKS.md` and `source-links.json`.
+
 Dated record of source-map and recovery-control integrations. Entries document navigation and provenance changes only. They do not promote material into canon.
 
 ## 2026-08-05 · Source-link integration
