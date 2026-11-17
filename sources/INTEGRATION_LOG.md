@@ -33,3 +33,17 @@ Use [`SOURCE_LINKS.md`](SOURCE_LINKS.md) as the maintained source registry.
 - Current workbook: https://drive.google.com/file/d/14nLpbkoMO5JVbcLsY6eUqBcKxbX1mxh6
 - ChatGPT project: https://chatgpt.com/g/g-p-6a6e90a2e4448191bd49c6bd971b9887-emberstates/project
 - Sketchfab reference collection: https://sketchfab.com/account24332/collections/pokemon-41added501ab4230a2ec613f4f72c0d8
+
+## 2026-11-17 · R1 Emberglass agent-action integration
+
+### Added
+
+- `docs/agents/R1_EMBERGLASS_AGENT_ACTIONS.md`
+- `sources/EMBERGLASS_SOURCE_MAP_2026-11-17.md`
+- cross-links from README, documentation index, source registry, and agent instructions
+- canonical current GitHub repository link alongside the original/requested repository URL
+
+### Ruling
+
+Emberglass is operational tooling, not lore canon. Green actions remain read-only, Yellow actions prepare state changes for confirmation, and Red actions require exact Zarea approval.
+
