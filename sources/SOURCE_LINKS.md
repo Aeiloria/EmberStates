@@ -13,7 +13,7 @@ Central link registry for recovery, provenance, external references, and reposit
 
 | Source | Link | Role | Status |
 |---|---|---|---|
-| EmberStates GitHub repository | https://github.com/simplyabbeyd-pixel/EmberStates | Versioned recovery, documentation, source registry, and integration surface | Live |
+| EmberStates GitHub repository | https://github.com/Aeiloria/EmberStates | Versioned recovery, documentation, source registry, and integration surface | Live |
 | Emberstates ChatGPT project | https://chatgpt.com/g/g-p-6a6e90a2e4448191bd49c6bd971b9887-emberstates/project | Project conversations, images, tags, and attached recovery material | Access-dependent |
 | Emberstates Google Drive root | https://drive.google.com/drive/folders/1Ftz1SiQxImAbcLj2a7XlKNzhSUtPuoxZ | Main Drive recovery and organization hub | Live |
 
@@ -33,7 +33,14 @@ Central link registry for recovery, provenance, external references, and reposit
 |---|---|---|
 | Emberstates_Master_Recovery_Index_v2.xlsx | https://drive.google.com/file/d/14nLpbkoMO5JVbcLsY6eUqBcKxbX1mxh6 | Current richer Drive workbook in 01_PROJECT_HUB |
 | Emberstates_Master_Recovery_Index.xlsx | https://drive.google.com/file/d/1vI1y94ExdEJE-7c4EfDbNa0B07KhcOfn | Preserved master index copy in 01_PROJECT_HUB |
-| Repository recovery workbook | https://github.com/simplyabbeyd-pixel/EmberStates/blob/main/recovery/Emberstates_Master_Recovery_Index.xlsx | Versioned repository copy; verify binary integrity before treating as authoritative |
+| Repository recovery workbook | https://github.com/Aeiloria/EmberStates/blob/main/recovery/Emberstates_Master_Recovery_Index.xlsx | Versioned repository copy; verify binary integrity before treating as authoritative |
+
+## Agent source registry
+
+| Source record | Stable repository link | Scope |
+|---|---|---|
+| EmberStates Agent Source Index | [Open agent source index](AGENT_SOURCE_INDEX.md) | Consolidates repository, ChatGPT, Drive, agent workbook, automation, compute, and recovery anchors |
+| Spreadsheet-friendly agent source index | [Open CSV](agent-source-index.csv) | CSV mirror for spreadsheet imports, filtering, and cross-tool ingestion |
 
 ## Imported ChatGPT recovery summaries
 
@@ -62,6 +69,8 @@ Central link registry for recovery, provenance, external references, and reposit
 - [Machine-readable source registry](source-links.json)
 - [Source import manifest](IMPORT_MANIFEST_2026-08-05.md)
 - [Recent project chat registry](RECENT_PROJECT_CHATS_2026-08-05.md)
+- [Agent source index](AGENT_SOURCE_INDEX.md)
+- [Agent source index CSV](agent-source-index.csv)
 - [Data recovery summary](emberstates-data-recovery-summary.md)
 - [Project spreadsheet summary](emberstates-project-spreadsheet-summary.md)
 - [Recovery workbook summary](emberstates-recovery-workbook-summary.md)
@@ -75,4 +84,4 @@ Central link registry for recovery, provenance, external references, and reposit
 5. Historical ChatGPT sandbox ZIP paths are provenance records, not recoverable binaries by filename alone.
 6. Do not fabricate individual ChatGPT conversation URLs when only the project-level doorway is available.
 
-_Last updated: 2026-08-05._
+_Last updated: 2026-11-17._
