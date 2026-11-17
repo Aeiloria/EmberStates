@@ -76,3 +76,13 @@ Central link registry for recovery, provenance, external references, and reposit
 6. Do not fabricate individual ChatGPT conversation URLs when only the project-level doorway is available.
 
 _Last updated: 2026-08-05._
+
+## Emberglass operational sources
+
+| Source | Link | Role | Status |
+|---|---|---|---|
+| R1: EMBERGLASS Agent Actions | [Open protocol](../docs/agents/R1_EMBERGLASS_AGENT_ACTIONS.md) | Read-only-first action and safety protocol | Versioned / non-canon |
+| Emberglass Source Map · 2026-11-17 | [Open source map](EMBERGLASS_SOURCE_MAP_2026-11-17.md) | Provenance anchors for the Emberglass integration | Versioned |
+| Canonical current repository | https://github.com/Aeiloria/EmberStates | Current repository location resolved by GitHub | Live |
+| Original/requested repository URL | https://github.com/simplyabbeyd-pixel/EmberStates | Historical/request doorway retained for provenance | Redirect / provenance |
+
