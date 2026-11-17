@@ -17,6 +17,8 @@ Start with the maintained [`sources/SOURCE_LINKS.md`](sources/SOURCE_LINKS.md) r
 - `AGENTS.md` - operating rules for future Codex/GitHub recovery passes
 - `docs/INDEX.md` - cross-surface documentation and source-anchor index
 - `sources/SOURCE_LINKS.md` - central registry of live, access-dependent, historical, and external source links
+- `sources/AGENT_SOURCE_INDEX.md` - consolidated agent infrastructure and provenance source map
+- `sources/agent-source-index.csv` - spreadsheet-friendly agent source registry
 - `sources/RECENT_PROJECT_CHATS_2026-08-05.md` - recent chat titles, image/tag notes, classifications, duplicate lineage, and honest source-link status
 - `sources/INTEGRATION_LOG.md` - dated record of source-link and recovery-map integrations
 - `recovery/README.md` - provenance, scope, current evidence, and known limitations
