@@ -1,13 +1,13 @@
 {
   "schema_version": "1.1",
-  "updated": "2026-08-05",
+  "updated": "2026-11-17",
   "project": "EmberStates",
   "authority_note": "Source links establish provenance and navigation only. They do not establish canon authority.",
   "sources": [
     {
       "id": "github-repository",
       "label": "EmberStates GitHub repository",
-      "url": "https://github.com/simplyabbeyd-pixel/EmberStates",
+      "url": "https://github.com/Aeiloria/EmberStates",
       "classification": "primary-project-surface",
       "status": "live"
     },
@@ -77,35 +77,35 @@
     {
       "id": "repository-recovery-workbook",
       "label": "Repository recovery workbook",
-      "url": "https://github.com/simplyabbeyd-pixel/EmberStates/blob/main/recovery/Emberstates_Master_Recovery_Index.xlsx",
+      "url": "https://github.com/Aeiloria/EmberStates/blob/main/recovery/Emberstates_Master_Recovery_Index.xlsx",
       "classification": "recovery-workbook",
       "status": "verify-binary-integrity"
     },
     {
       "id": "source-import-manifest-2026-08-05",
       "label": "Source import manifest, 2026-08-05",
-      "url": "https://github.com/simplyabbeyd-pixel/EmberStates/blob/main/sources/IMPORT_MANIFEST_2026-08-05.md",
+      "url": "https://github.com/Aeiloria/EmberStates/blob/main/sources/IMPORT_MANIFEST_2026-08-05.md",
       "classification": "import-manifest",
       "status": "live"
     },
     {
       "id": "project-spreadsheet-summary",
       "label": "Emberstates Project Spreadsheet summary",
-      "url": "https://github.com/simplyabbeyd-pixel/EmberStates/blob/main/sources/emberstates-project-spreadsheet-summary.md",
+      "url": "https://github.com/Aeiloria/EmberStates/blob/main/sources/emberstates-project-spreadsheet-summary.md",
       "classification": "imported-recovery-summary",
       "status": "live"
     },
     {
       "id": "data-recovery-summary",
       "label": "Emberstates Data Recovery summary",
-      "url": "https://github.com/simplyabbeyd-pixel/EmberStates/blob/main/sources/emberstates-data-recovery-summary.md",
+      "url": "https://github.com/Aeiloria/EmberStates/blob/main/sources/emberstates-data-recovery-summary.md",
       "classification": "imported-recovery-summary",
       "status": "live"
     },
     {
       "id": "recovery-workbook-summary",
       "label": "Emberstates Recovery Workbook summary",
-      "url": "https://github.com/simplyabbeyd-pixel/EmberStates/blob/main/sources/emberstates-recovery-workbook-summary.md",
+      "url": "https://github.com/Aeiloria/EmberStates/blob/main/sources/emberstates-recovery-workbook-summary.md",
       "classification": "imported-recovery-summary",
       "status": "live"
     },
@@ -115,6 +115,76 @@
       "url": "https://sketchfab.com/account24332/collections/pokemon-41added501ab4230a2ec613f4f72c0d8",
       "classification": "external-research-reference",
       "status": "external-not-canon"
+    },
+    {
+      "id": "github-legacy-redirect",
+      "label": "Legacy EmberStates repository doorway",
+      "url": "https://github.com/simplyabbeyd-pixel/EmberStates",
+      "classification": "repository-alias",
+      "status": "redirect"
+    },
+    {
+      "id": "agent-source-index",
+      "label": "EmberStates Agent Source Index",
+      "url": "https://github.com/Aeiloria/EmberStates/blob/main/sources/AGENT_SOURCE_INDEX.md",
+      "classification": "agent-source-registry",
+      "status": "live"
+    },
+    {
+      "id": "agent-source-index-csv",
+      "label": "Agent source index CSV",
+      "url": "https://github.com/Aeiloria/EmberStates/blob/main/sources/agent-source-index.csv",
+      "classification": "agent-source-registry",
+      "status": "live"
+    },
+    {
+      "id": "agent-index-workbook",
+      "label": "Agent Index workbook",
+      "url": "https://docs.google.com/spreadsheets/d/1evo-PlKZDEMau-WXJ01SKn7M6vuhLF-P01bEopfLlaE/edit",
+      "classification": "agent-workbook",
+      "status": "live"
+    },
+    {
+      "id": "drive-for-agents",
+      "label": "Drive for Agents",
+      "url": "https://drive.google.com/drive/folders/1xdg5dGgmxnElJznWkFGE4jUNWISF7t2r",
+      "classification": "agent-storage",
+      "status": "live"
+    },
+    {
+      "id": "foxglint-living-repository",
+      "label": "Foxglint Living Repository",
+      "url": "https://drive.google.com/drive/folders/1FxM_o3WJ8Xsqc4GNlkzF-LaPfiZLFimk",
+      "classification": "living-repository",
+      "status": "live"
+    },
+    {
+      "id": "foxglint-index",
+      "label": "Foxglint Living Repository Index",
+      "url": "https://docs.google.com/document/d/1f5l12DfxnldnVlNjf0ammc8XDROSbhjjP4k4HeE85Rg/edit",
+      "classification": "repository-index",
+      "status": "live"
+    },
+    {
+      "id": "foxglint-contribution-log",
+      "label": "Foxglint Contribution Log",
+      "url": "https://docs.google.com/spreadsheets/d/1-qabvZjES8aiQDxk-6ULJAB-RiYjlg6AWVvCukEwx48/edit",
+      "classification": "contribution-log",
+      "status": "live"
+    },
+    {
+      "id": "agent-apps-script",
+      "label": "EmberStates Apps Script project",
+      "url": "https://script.google.com/home/projects/1OLx-jNyDE_aY-CwdkE_gxPhxn8xExfvLuBcD0Pd-Uph6uaWpBGLt_dvP",
+      "classification": "automation",
+      "status": "access-dependent"
+    },
+    {
+      "id": "agent-colab",
+      "label": "EmberStates Colab notebook",
+      "url": "https://colab.research.google.com/drive/1tK3Sv8rwaGeHFCH7FYoLcik6cDesSCNK?usp=sharing",
+      "classification": "compute",
+      "status": "access-dependent"
     }
   ]
 }
