@@ -16,6 +16,8 @@ Start with the maintained [`sources/SOURCE_LINKS.md`](sources/SOURCE_LINKS.md) r
 
 - `AGENTS.md` - operating rules for future Codex/GitHub recovery passes
 - `docs/INDEX.md` - cross-surface documentation and source-anchor index
+- `docs/wiki/Veyra-Quill.md` - steward page for authority, repository links, status vocabulary, and the dictionary rule
+- `docs/wiki/Repository-Dictionary.md` - glossary of repository, provenance, workflow, and agent terms
 - `sources/SOURCE_LINKS.md` - central registry of live, access-dependent, historical, and external source links
 - `sources/AGENT_SOURCE_INDEX.md` - consolidated agent infrastructure and provenance source map
 - `sources/agent-source-index.csv` - spreadsheet-friendly agent source registry

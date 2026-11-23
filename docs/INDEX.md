@@ -64,6 +64,8 @@ The intended repo workflow is a real local clone plus Git worktrees, not connect
 | `README.md` | Project overview, evidence boundaries, Drive anchor, and current ruling. |
 | `AGENTS.md` | Operating rules for Codex/GitHub passes. |
 | `docs/INDEX.md` | Cross-surface documentation and source-anchor index. |
+| `docs/wiki/Veyra-Quill.md` | Steward page for Veyra Quill: authority, living-repository links, status vocabulary, academy submission path, and the dictionary rule. Points at `docs/wiki/Repository-Dictionary.md`. |
+| `docs/wiki/Repository-Dictionary.md` | Glossary of living-repository, provenance, workflow, agent, and academy terms used by the Veyra Quill page. |
 | `docs/wiki/Foxglint-repository-initialized.md` | GitHub wiki-page mirror for Foxglint initialization and living repository stewardship. |
 | `recovery/README.md` | Recovery packet contents, evidence base, known gaps, and provenance policy. |
 | `recovery/EMBERSTATES_REVIEW__2026-08-02.md` | Read-only review ruling for the compiled recovery packet. |
